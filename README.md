@@ -25,6 +25,7 @@ Here’s a snapshot of the tools and technologies I work with:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/faisal-pinitod-449679319/)
+- 📧 **Email**: [faisalpinito173@gmail.com](mailto:faisalpinito173@gmail.com)
 
 ## 📈 GitHub Stats
 
