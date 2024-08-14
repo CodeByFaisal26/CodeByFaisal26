@@ -9,35 +9,27 @@ I specialize in:
 - **Backend Development**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Frontend Technologies**: HTML, CSS, React
-- **DevOps**: Docker, Kubernetes, CI/CD, AWS
+- **DevOps**: Docker, Kubernetes, Ansible, CI/CD, AWS
 - **Development Practices**: Effective communication, team collaboration, continuous process improvement
 
 ## 🛠 Technologies & Tools
 
 Here’s a snapshot of the tools and technologies I work with:
 
-- **Languages**: JavaScript, TypeScript
+- **Languages**: JavaScript, TypeScript, Python
 - **Frameworks**: Node.js, Express.js, React
 - **Databases**: MongoDB, MySQL
-- **DevOps**: Docker, Kubernetes, AWS, CI/CD
+- **DevOps**: Docker, Kubernetes, Ansible, AWS, CI/CD
 - **Others**: HTML, CSS
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/faisal-pinitod-449679319/)
 
 ## 📈 GitHub Stats
 
 ![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByFaisal26&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📝 Latest Blog Posts
-
-Check out my latest blog posts where I share insights on backend development and technology:
-
-- [Post Title 1](https://yourwebsite.com/post-title-1)
-- [Post Title 2](https://yourwebsite.com/post-title-2)
 
 ## 💬 Let’s Collaborate
 
@@ -48,7 +40,8 @@ I’m always open to discussing new projects, contributing to open-source, or ju
 I’m committed to continuous learning and growth. Here’s what I’m currently exploring:
 
 - **Upcoming Technologies**: Exploring new advancements in backend development and cloud services.
-- **Courses/Certifications**: [Relevant courses or certifications you’re pursuing]
+- **Courses/Certifications**:
+ - **[HackerRank Basic Node.js](https://www.hackerrank.com/certificates/CD19E479CA59)**: A certification demonstrating foundational knowledge and skills in Node.js development
 
 ## 📌 To Do List
 
